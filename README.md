@@ -36,5 +36,5 @@ Injuries Due to Gun Violence by state:
 ![image](gun_injured.png)
 
 How Gun Violecne has developed over the years.
-![image](gun_years.png)
+![image](gun_years1.png)
 
