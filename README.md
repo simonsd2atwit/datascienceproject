@@ -26,13 +26,13 @@ Example of the data
 In these screenshots it shows off what the data represents
 
 Total Casualties due to Gun Violence:
-![image]
+![image](total_casualties.png)
 
 Deaths Due to Gun Violence by state:
-![image]
+![image](gun_deaths.png)
 
 Injuries Due to Gun Violence by state:
-![image]
+![image](gun_injured.png)
 
 How Gun Violecne has developed over the years:
 ![image]
