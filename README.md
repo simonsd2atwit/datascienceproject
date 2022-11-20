@@ -16,9 +16,24 @@ Example of the data
 
 ## Methods
 
-- NumPy, SciPy, Pandas, and Scikit-learn for data analysis and inference
-- GitHub
-- Kaggle
-- Jupyter
+- NumPy, Pandas, and matplot for data analysis and inference
+- GitHub for the writing portion
+- Kaggle for the dataset
+- Jupyter for compiling and running the data
 
 ## Results
+
+In these screenshots it shows off what the data represents
+
+Total Casualties due to Gun Violence:
+![image]
+
+Deaths Due to Gun Violence by state:
+![image]
+
+Injuries Due to Gun Violence by state:
+![image]
+
+How Gun Violecne has developed over the years:
+![image]
+
