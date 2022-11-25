@@ -41,4 +41,5 @@ The line seperates the injurieds from the deaths, Injuries on the left and death
 
 ## Discussion
 
-Experimenting with the data exposed many strange things such as where most deaths are and some other interesting facts. Such as Wyoming being the state with the lowest deaths and injuries rate among all states.
+Experimenting with the data exposed many strange things such as where most deaths are and some other interesting facts. Such as Wyoming and Vermont sharing being the states with the lowest deaths and injuries rate among all states. Another finding is how California and Texas are nearing the top both charts for highest injuries and 
+deaths however Illinois takes the top spot of most injured by a whopping 12,000 more injured by gun violence then the second top states being California.
