@@ -40,3 +40,5 @@ The line seperates the injurieds from the deaths, Injuries on the left and death
 ![image](gun_years1.png)
 
 ## Discussion
+
+Experimenting with the data exposed many strange things such as where most deaths are and some other interesting facts. Such as Wyoming being the state with the lowest deaths and injuries rate among all states.
