@@ -43,3 +43,5 @@ The line seperates the injurieds from the deaths, Injuries on the left and death
 
 Experimenting with the data exposed many strange things such as where most deaths are and some other interesting facts. Such as Wyoming and Vermont sharing being the states with the lowest deaths and injuries rate among all states. Another finding is how California and Texas are nearing the top both charts for highest injuries and 
 deaths however Illinois takes the top spot of most injured by a whopping 12,000 more injured by gun violence then the second top states being California.
+
+Now with this information I could do research into why these statistics might be such as population density or other crime rates, and I foudn some interesting information. Such as with Illinois, which has the city of Chicago in it which is know for gang activity and petty crimes which could contribute to why it has such a high injury count. Another facinating thing found is for Wyoming and Vernmont, the population densitys are so low which is why gun violence is rarer, its hard to have gun crimes when no one lives close to each other.
