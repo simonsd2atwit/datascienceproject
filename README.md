@@ -20,6 +20,9 @@ Example of the data
 - GitHub for the writing portion
 - Kaggle for the dataset
 - Jupyter for compiling and running the data
+Examples from Jupyter
+![image](data_frame.png)
+![image](deaths_all.png)
 
 ## Results
 
@@ -45,3 +48,9 @@ Experimenting with the data exposed many strange things such as where most death
 deaths however Illinois takes the top spot of most injured by a whopping 12,000 more injured by gun violence then the second top states being California.
 
 Now with this information I could do research into why these statistics might be such as population density or other crime rates, and I foudn some interesting information. Such as with Illinois, which has the city of Chicago in it which is know for gang activity and petty crimes which could contribute to why it has such a high injury count. Another facinating thing found is for Wyoming and Vernmont, the population densitys are so low which is why gun violence is rarer, its hard to have gun crimes when no one lives close to each other.
+
+On large fact that is revealed which answers the main questions is that over the years since 2014 gun violence has been on a noticble rise not only in injuries but in deaths aswell
+
+## Summary
+
+
