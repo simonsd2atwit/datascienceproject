@@ -21,6 +21,8 @@ Example of the data
 - Kaggle for the dataset
 - Jupyter for compiling and running the data
 Examples from Jupyter
+
+
 ![image](data_frame.png)
 ![image](deaths_all.png)
 
