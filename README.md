@@ -51,8 +51,11 @@ deaths however Illinois takes the top spot of most injured by a whopping 12,000 
 
 Now with this information I could do research into why these statistics might be such as population density or other crime rates, and I foudn some interesting information. Such as with Illinois, which has the city of Chicago in it which is know for gang activity and petty crimes which could contribute to why it has such a high injury count. Another facinating thing found is for Wyoming and Vernmont, the population densitys are so low which is why gun violence is rarer, its hard to have gun crimes when no one lives close to each other.
 
-On large fact that is revealed which answers the main questions is that over the years since 2014 gun violence has been on a noticble rise not only in injuries but in deaths aswell
+On large fact that is revealed which answers the main questions is that over the years since 2014 gun violence has been on a noticble rise not only in injuries but in deaths aswell. It answers the wuestions I had in the beginning of this project, but it is unknown as to why the crime has risen over the years. Could it be more criminals? More unwell people? or maybe its as simple as more people in the world.
 
 ## Summary
+
+In this project I wanted to see if crime has risen over the years and where the most dangerous places in the United States are. I was able to find the answers to my questions, Gun Violence has been on the rise since 2014 not in a stagnnt pattern but an increase. The most dangerous places are Illinois, California and Texas. The safest places are Wyoming, Vernmont and Hawaii.
+
 
 
